@@ -3,6 +3,9 @@
 
 int main(int argc, char *argv[])
 {
+
+
+
     QApplication a(argc, argv);
     GISmanagementsystem w;
     w.show();
