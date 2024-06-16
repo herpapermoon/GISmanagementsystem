@@ -1,4 +1,6 @@
 #include "GIS.h"
+#include <gdal.h>
+
 
 GIS::GIS(QWidget *parent)
     : QMainWindow(parent)
